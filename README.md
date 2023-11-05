@@ -8,5 +8,5 @@ Hypothesis Test using
 - Nc Nemars Test
 - Odds Ratio
 
-Simple Linars Regression
+Simple Linear Regression
 
